@@ -1,0 +1,21 @@
+Ethereal Labs 
+
+ "Tell me and I forget. Show me and I remember. Involve me and I understand."
+Chinese proverb
+
+One's understanding of network protocols can often be greatly deepened by "seeing protocols in action" and by "playing around with protocols" - observing the sequence of messages exchanges between two protocol entities, delving down into the details of protocol operation, and causing protocols to perform certain actions and then observing these actions and their consequences. This can be done in simulated scenarios or in a "real" network environment such as the Internet. The Java applets in the textbook Web site take the first approach. In these Ethereal labs, we'll take the latter approach. You'll be running various network applications in different scenarios using a computer on your desk, at home, or in a lab. You'll observe the network protocols in your computer "in action," interacting and exchanging messages with protocol entities executing elsewhere in the Internet. Thus, you and your computer will be an integral part of these "live" labs. You'll observe, and you'll learn, by doing.
+
+The basic tool for observing the messages exchanged between executing protocol entities is called a packet sniffer. As the name suggests, a packet sniffer passively copies ("sniffs") messages being sent from and received by your computer; it will also display the contents of the various protocol fields of these captured messages. For these labs, we'll use the Ethereal packet sniffer. Ethereal is a free/shareware packet sniffer that runs on Windows, Linux/Unix, and Mac computers. The Ethereal labs below will allow you to explore many of the Internet most important protocols.
+
+Ethereal labs: click on the links below to download an Ethereal lab on the given topic.
+
+1. Getting started (most recent version: 1.0) 
+2. HTTP (most recent version: July 2005) 
+3. DNS 
+4. TCP (most recent version: July 2005) 
+5. IP (most recent version: July 2005) 
+6. ICMP (most recent version: July 2005) 
+7. Ethernet and ARP (most recent version: 1.0) 
+8. DHCP (most recent version: 1.0) 
+9. 802.11 (currently under development) 
+10.trace files: ethereal-traces.zip (most recent version: 1.0) 

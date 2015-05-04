@@ -1,0 +1,60 @@
+Errata 
+
+We all occasionally make mistakes. We're proud of the quality of our textbook, but in a book with more than 800 pages, a couple of typos are bound to slip in. The errata below list the mistakes that we'll fix in the next printing of the book. If you see errors not noted below, please send us mail at: kurose@cs.umass.edu and ross@poly.edu. 
+
+Chapter 1
+
+Page 51, Figure 1.18, replace "Dataframe" with "Datagram". 
+
+Page 67, Problem 20b, replace ¡°from the source host to the second switch¡± with ¡°from the source host to the first switch¡±
+
+Chapter 2
+
+Page 135, line 5, replace ¡°http://www.intenic.net¡± with ¡°http://www.internic.net¡±
+
+Chapter 3
+
+Page 288, There are two errors in the figure on the page: (i) ¡°andpkt¡± should be ¡°sndpkt¡± on the loop for the state ¡°Wait for 0 from below¡±; (ii) the right loop of the figure is chopped off; the line that is printed as "make_pkt(sndpkt, NAK, c" should be ¡°make_pkt(sndpkt, NAK, chksum)¡±
+
+
+Page 291, Problem 26, replace "consider Figure 3.45." with "consider Figure 3.45(c)."
+
+Page 292, Problem 31, replace ¡°connection¡¯s window size¡± with ¡°connection¡¯s rate¡±; replace ¡°loss-rate¡± with ¡°loss-rate (fraction of packets lost)¡±; replace lower-case ¡°w¡± with upper-case ¡°W¡± in equation; replace ¡°average bandwidth¡± with ¡°average rate¡±. 
+
+Chapter 4
+
+Page 352, lines 18-19, replace "(x1, x2), (x1, x3)" with "(x1, x2), (x2, x3)"
+
+Page 359, line 5, replace ¡°c(u,x) = 5 and c(u,w) = 1¡± with ¡°c(u,x) = 1 and c(u,w) = 5¡± 
+
+Page 363, equation near bottom of page, replace " = {60+0,1+5} = 6" with " = min{60+0,1+5} = 6"
+
+Page 365, line 6, replace "via the direct (x, y) link" with "via the direct (z, x) link"
+
+Page 401, Problem 2, replace "circuit-switched network" with "virtual-circuit network"
+
+Page 404, Problem 4, replace "may only traverse one of" with "may only be traversing one of"
+
+Page 406, Problem 14, replace "214.97.254/17" with "214.97.254/23"
+
+Page 412, the following figure is missing from the bottom of the page:
+ 
+
+Chapter 5
+
+Page 461, Step 5, replace "2m ¨C 1" with "2m ¨C 1" 
+
+Chapter 6
+
+Page 511, Equation (6.3), replace "c" with "cm"
+
+
+Page 523, Figure 6.11, above CRC replace "2" with "4"
+
+Page 545, Figure 6.20, arrows for events 1 and 2 should be reversed
+
+Chapter 8
+
+Page 713, second bulleted item, replace "The source IP address for ¡­" with "The destination IP address for ¡­"
+
+
